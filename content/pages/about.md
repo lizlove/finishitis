@@ -1,13 +1,31 @@
 ---
 title: "About Finishitis"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/flawless.jpg"
 ---
 
-testing 112 habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I suffer from _finishitis_: the chronic inability to complete all the projects I start.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+This disease manifests in every medium. My desk groans under the weight of unfinished writing, coding, knitting, and other art projects.
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
+As the mother of a five-month old, I've lost the luxury of free time and free space in my small Brooklyn apartment. I am tired of the guilty thoughts cluttering my head. I need the space back in my mental To Do List. It's time to push through the discomfort, let go of the perfectionism and get things done.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+![Finish her](/media/flawless.png)
+
+Inspired by NaNoWriMo, I've decided to embark on a 30 Day challenge this November to spend at least 30 minutes a day bringing some of my nearly-done side projects to completion. I'll post each day to document my progress. I'm not promising beautiful work. I am focusing on _done_. Hopefully this will free up some headroom and kick finishitis once and for all.
+
+[Follow me](https://www.instagram.com/lizzardl/) to help keep me accountable and share your own triumphs over [finishitis](https://www.instagram.com/explore/tags/finishitis/?hl=en). I'll see you on the done side.
+
+-Liz
+
+### Finishitis Challenge To Do List
+
+1. Build this site!
+2. Fix my personal site authorization
+3. Ok, Not Ok deployment
+4. Thank you chart
+5. Chart of the week?
+6. Baby blanket
+7. Mira essay
+8. d3 page for Archiveview
+9. Parker blanket
