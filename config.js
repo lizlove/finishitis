@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: '@lizlove',
+    name: 'Finishitis',
     photo: '/finish-flag.png',
     bio: 'A 30 Day challenge to spend 30 minutes a day finishing all my nearly-done side projects. Join me.',
     contacts: {
@@ -33,6 +33,15 @@ module.exports = {
       github: '#lizlove',
       instagram: '#lizzardl',
       github: 'lizlove',
+      facebook: "",
+      linkedin: "",
+      twitter: "",
+      telegram: "",
+      rss: "",
+      vkontakte: "",
+      line: "",
+      gitlab: "",
+      weibo: ""
     }
   }
 };
