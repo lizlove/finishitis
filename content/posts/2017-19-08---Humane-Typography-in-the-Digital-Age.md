@@ -9,7 +9,7 @@ tags:
   - "Writing"
   - "Coding"
   - "Web Development"
-description: "Wrote an introduction to the site. Deployed to Zeit."
+description: "Welcome to Finishitis. My update on my first day of the challenge. Wrote an introduction to the site. Deployed to Zeit."
 socialImage: "/media/42-line-bible.jpg"
 ---
 
@@ -22,7 +22,7 @@ socialImage: "/media/42-line-bible.jpg"
 
 I wrote the about page, contact page, and first blog post. I setup now deployment and deployed the site. I wrote an Instagram post.
 
-![42-line-bible.jpg](/media/42-line-bible.jpg)
+![blog page](/media/blog.png)
 
 _Putting the website live!_
 
@@ -40,10 +40,11 @@ I spent more time than I needed to writing and re-writing my intro paragraph bec
 
 ## Misc
 
-The paragraph and header below are the dummy text that comes with this Gatsby
+The paragraph and header below are the dummy text that comes with this Gatsby template. Coincidentally, I think it suits this undertaking nicely.
 
-## Chasing perfection
+### Chasing perfection
 
-Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?
+`Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?`
 
 _Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x)._
+`
