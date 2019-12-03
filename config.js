@@ -37,7 +37,13 @@ module.exports = {
       github: "lizlove",
       facebook: "",
       linkedin: "",
-      twitter: ""
+      twitter: "",
+      vkontakte: "",
+      line: "",
+      rss: "",
+      telegram: "",
+      gitlab: "",
+      weibo: ""
     }
   }
 };
