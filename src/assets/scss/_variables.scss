@@ -4,18 +4,20 @@
 
 // Colors
 $color-base: #222;
-$color-primary: #5d93ff;
-$color-secondary: #f7a046;
+$color-primary: #7776bc;
+$color-secondary: #ff674d;
 
-$color-white: #fff;
+$color-white: #fffbdb;
 $color-gray: lighten($color-base, 40%);
 $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
 
 // Typographic
-// $typographic-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-$typographic-font-family: linotype-sabon, Georgia, Times, "Times New Roman",
-  serif;
+$typographic-font-family: basic-sans, -apple-system, BlinkMacSystemFont,
+  "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue",
+  sans-serif;
+// $typographic-font-family: linotype-sabon, Georgia, Times, "Times New Roman",
+//   serif;
 
 $typographic-root-font-size: 100;
 $typographic-base-font-size: 16px;
