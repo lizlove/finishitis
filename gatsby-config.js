@@ -16,14 +16,6 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "gatsby-plugin-web-font-loader",
-      options: {
-        typekit: {
-          id: "rlq0vbz"
-        }
-      }
-    },
-    {
       resolve: "gatsby-source-filesystem",
       options: {
         path: `${__dirname}/content`,
@@ -214,6 +206,14 @@ module.exports = {
       }
     },
     "gatsby-plugin-flow",
-    "gatsby-plugin-optimize-svgs"
+    "gatsby-plugin-optimize-svgs",
+    {
+      resolve: "gatsby-plugin-web-font-loader",
+      options: {
+        typekit: {
+          id: "rlq0vbz"
+        }
+      }
+    }
   ]
 };
