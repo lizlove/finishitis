@@ -26,16 +26,16 @@ I'm not promising beautiful work. I am focusing on _done_. Hopefully this will f
 ### To Do List
 
 1. Fix my personal site authorization
-2. Ok, Not Ok deployment
-3. Thank you chart
-4. Chart of the week?
-5. Mira essay
-6. d3 page for Archiveview
-7. Parker blanket
+2. Thank you chart
+3. Chart of the week?
+4. Mira essay
+5. d3 page for Archiveview
+6. Parker blanket
 
 ### Completed Projects
 
 1. ~~Build this site!~~
 2. ~~Baby blanket~~
+3. ~~Ok, Not Ok deployment~~
 
 ![Finish her](/media/flawless.png)
