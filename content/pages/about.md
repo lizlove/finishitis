@@ -1,6 +1,7 @@
 ---
 title: "About Finishitis"
 template: "page"
+description: "About Finishitis"
 socialImage: "/media/flawless.jpg"
 ---
 
@@ -11,11 +12,11 @@ I suffer from _finishitis_: the chronic inability to complete all the projects I
 
 This disease manifests in every medium. My desk groans under the weight of unfinished writing, coding, knitting, and other art projects.
 
-As the mother of a five-month old, I've lost the luxury of free time and free space in my small Brooklyn apartment. I am tired of the guilty thoughts cluttering my head. I need the space back in my mental To Do List. It's time to push through the discomfort, let go of the perfectionism and get things done.
+As the mother of a young child, I've lost the luxury of free time and free space in my small Brooklyn apartment. I am tired of the guilty thoughts cluttering my head. I need the space back in my mental To Do List. It's time to push through the discomfort, let go of the perfectionism and get things done.
 
 Inspired by NaNoWriMo, I undertook on a 30 Day challenge in November 2019 to spend at least 30 minutes a day bringing some of my nearly-done side projects to completion. After one month, I finished one crochet baby blanket and built this site. 🎊🍾🧶 This was a whole lot less work than I'd initially imagined, but I was pleased that I checked at least one item off my list.
 
-For December 2019, I'll be taking on another month-long challenge to complete past projects. I'm aiming my sites on some nearly-complete websites. 👩🏻‍💻 I'll post periodically to document my progress.
+Each month since then, I've taken on another 30-day challenge to complete past projects. 👩🏻‍💻 I'll post periodically to document my progress and take stock of what I'm learning.
 
 I'm not promising beautiful work. I am focusing on _done_. Hopefully this will free up some headroom and kick finishitis once and for all.
 
@@ -34,8 +35,8 @@ I'm not promising beautiful work. I am focusing on _done_. Hopefully this will f
 
 ### Completed Projects
 
-1. ~~Build this site!~~
-2. ~~Baby blanket~~
-3. ~~Ok, Not Ok deployment~~
+1. ~~Build this site!~~ (Nov 2019)
+2. ~~Baby blanket~~ (Nov 2019)
+3. ~~Ok, Not Ok deployment~~ (Dec 2019)
 
 ![Finish her](/media/flawless.png)
