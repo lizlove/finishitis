@@ -47,17 +47,19 @@ const createPages = async ({ graphql, actions }) => {
   `);
 
   const { edges } = result.data.allMarkdownRemark;
-  const age = moment("20190513", "YYYYMMDD")
+  const otiAge = moment("20190513", "YYYYMMDD")
     .fromNow()
-    .replace("ago", "old")
-    .replace("s", "");
+    .replace("ago", "old");
+  const projectAge = moment().diff("20191031", "days");
+  console.log(`🗓️  Oti is ${otiAge}.`);
+  console.log(`🗓️  Finishitis is ${projectAge} days old.`);
 
   _.each(edges, edge => {
     if (_.get(edge, "node.frontmatter.template") === "page") {
       createPage({
         path: edge.node.fields.slug,
         component: path.resolve("./src/templates/page-template.js"),
-        context: { slug: edge.node.fields.slug, oti: age }
+        context: { slug: edge.node.fields.slug, otiAge: otiAge }
       });
     } else if (_.get(edge, "node.frontmatter.template") === "post") {
       createPage({
